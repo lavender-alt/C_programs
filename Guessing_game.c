@@ -5,7 +5,6 @@ Date: 7/10/2025
 Description: A C PROGRAM THAT USES WHILE LOOP IMPLEMENTS A NUMBER GUESSING GAME, COUNTS AND DISPLAYS THE TOTAL NUMBER OF ATTEMPTS IT TOOK FOR THE PLAYER TO GUESS CORRECTLY
 */
 
-
 #include <stdio.h>  //scanf(), printf()
 #include <stdlib.h> // For rand() and srand()
 #include <time.h>   // For time()
@@ -43,4 +42,5 @@ int main() {  //main function
     printf("It took you %d attempts to guess the number.\n", attempts);
 
 	return 0;  //execution successful
+
 }
