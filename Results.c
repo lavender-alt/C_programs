@@ -1,6 +1,6 @@
 /* 
-Name: James Githahu 
-Reg No: CT101/G/26463/25
+Name: Lavender Mutua
+Reg No: CT101/G/26570/25
 Description: Program to write and read student examination results from a binary file (results.dat).
 */
 
